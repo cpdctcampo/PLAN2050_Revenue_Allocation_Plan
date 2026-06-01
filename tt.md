@@ -1,7 +1,5 @@
 <b>Process Outline: Prioritized Project Funding Allocation</b>
 
-<br><br>
-
 <b>1. Data Preparation</b>
 
 <ul>
@@ -151,8 +149,6 @@
     </ul>
   </li>
 </ul>
-
-<hr>
 
 <b>Key design choices</b>
 
